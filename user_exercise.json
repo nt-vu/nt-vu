@@ -1,0 +1,128 @@
+[
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "BRICKSTACK",
+	"mark" : "100.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "FIBO3EASY",
+	"mark" : "100.0",
+	"submit" : "2"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "FIBOMIN",
+	"mark" : "100.0",
+	"submit" : "1"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "FUNCTIONG",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "GRIDEASY",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "MAXCSARR",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "SEQUENCE5",
+	"mark" : "100.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "SUBARRM",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "SUMN",
+	"mark" : "40.0",
+	"submit" : "1"
+	},
+	{
+	"user_id" : "2051063451",
+	"exercise_id" : "SUMNM",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "BRICKSTACK",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "FIBO3EASY",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "FIBOMIN",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "FUNCTIONG",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "GRIDEASY",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "MAXCSARR",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "SEQUENCE5",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "SUBARRM",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "SUMN",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "SUMNM",
+	"mark" : "0.0",
+	"submit" : "0"
+	},
+	{
+	"user_id" : "1",
+	"exercise_id" : "FINDMAX",
+	"mark" : "0.0",
+	"submit" : "0"
+	}
+]
