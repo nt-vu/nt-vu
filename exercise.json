@@ -1,0 +1,79 @@
+[
+	{
+	"id" : "BRICKSTACK",
+	"name" : "Chồng gạch xếp cao nhất",
+	"topic" : "Sắp xếp",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "FIBO3EASY",
+	"name" : "Số fibonacci bậc 3",
+	"topic" : "Đệ quy",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "FIBOMIN",
+	"name" : "Số fibonacci lớn hơn k",
+	"topic" : "Đệ quy, vòng lặp",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "FINDMAX",
+	"name" : "Tìm số lớn nhất",
+	"topic" : "Vòng lặp",
+	"timeLimit" : "1",
+	"subject_id" : "NMLT"
+	},
+	{
+	"id" : "FUNCTIONG",
+	"name" : "Hàm g(n) chia 4",
+	"topic" : "Đệ quy",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "GRIDEASY",
+	"name" : "Đường đi trên lưới",
+	"topic" : "Đệ quy, quy hoạch động",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "MAXCSARR",
+	"name" : "Dãy con chung tổng lớn nhất",
+	"topic" : "Quy hoạch động",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "SEQUENCE5",
+	"name" : "Số bộ 5 cấp số cộng",
+	"topic" : "Sắp xếp, tìm kiếm",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "SUBARRM",
+	"name" : "Số dãy con có tổng bằng M",
+	"topic" : "Quy hoạch động",
+	"timeLimit" : "5",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "SUMN",
+	"name" : "Phân tích N thành tổng các số dương",
+	"topic" : "Đệ quy, duyệt",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	},
+	{
+	"id" : "SUMNM",
+	"name" : "Phân tích N thành tổng M số",
+	"topic" : "Đệ quy, duyệt",
+	"timeLimit" : "1",
+	"subject_id" : "TTUD"
+	}
+]
